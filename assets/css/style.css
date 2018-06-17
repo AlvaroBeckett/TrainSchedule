@@ -1,0 +1,12 @@
+body {
+    background: #bae1ff;
+}
+
+form {
+    border: solid 4px #00000029;
+    border-radius: 10px;
+}
+#formHeader {
+    background: #bae1fc;
+    border-radius: 10px;
+}
